@@ -1,2 +1,6 @@
 Hello, Git world!
+<<<<<<< HEAD
 Operations
+=======
+Developer
+>>>>>>> main
