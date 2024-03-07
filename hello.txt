@@ -1,3 +1,7 @@
 Hello, Git world!.
 
+<<<<<<< HEAD
 This is an assignment.
+=======
+My name is Hakim
+>>>>>>> release-1
